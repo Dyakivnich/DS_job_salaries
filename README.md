@@ -2,7 +2,7 @@
 
 ## Задача проекта
 
-Исследовать данные с зарплатами за 2020-2022 года.
+Исследовать [данные](https://github.com/Dyakivnich/DS_job_salaries/blob/master/ds_salaries.csv) с зарплатами Data Science за 2020-2022 года.
 
 ## Знакомство с данными
 
